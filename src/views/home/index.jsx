@@ -1,7 +1,9 @@
-import React, { memo } from "react";
+import { homeHighscore } from "@/api/home";
+
+import React, { memo, useEffect } from "react";
 
 const Home = memo(() => {
-  return <div>Home</div>;
+  return <div>home</div>;
 });
 
 export default Home;

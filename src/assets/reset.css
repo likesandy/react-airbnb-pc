@@ -1,7 +1,0 @@
-@tailwind components;
-
-@layer components {
-  .my-custom-style {
-    color: red
-  }
-}
